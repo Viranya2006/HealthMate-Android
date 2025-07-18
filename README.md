@@ -59,7 +59,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/HealthMate.git](https://github.com/YOUR_USERNAME/HealthMate.git)
+    git clone https://github.com/Viranya2006/HealthMate-Android.git
     ```
 
 2.  **Open in Android Studio:**
