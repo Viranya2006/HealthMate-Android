@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HealthMate</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_first_aid">First-Aid</string>
+    <string name="nav_language">Language</string>
+    <string name="title_home">AI Health Assistant</string>
+    <string name="title_first_aid">First-Aid Guide</string>
+    <string name="hint_symptoms">Type symptoms here...</string>
+    <string name="button_camera">Identify Medicine with Camera</string>
+    <string name="initial_response_text">Enter symptoms, or use the camera to identify medicine.</string>
+    <string name="coming_soon">Coming Soon!</string>
+    <string name="dialog_language_title">Choose Language</string>
+    <string name="lang_english">English</string>
+    <string name="lang_sinhala">Sinhala (සිංහල)</string>
+    <string name="toast_lang_changed">Language changed to English</string>
+    <string name="toast_permission_required">Camera permission is required.</string>
+    <string name="toast_error_request">Error creating request.</string>
+    <string name="toast_error_image">Could not process image.</string>
+    <string name="toast_error_network">Network error. Please check your connection.</string>
+    <string name="toast_error_api">API Error: %1$d</string>
+    <string name="toast_error_response">Error parsing response.</string>
+    <string name="toast_error_blocked">Request blocked. Please try something else.</string>
+</resources>

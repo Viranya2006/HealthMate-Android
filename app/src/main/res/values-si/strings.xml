@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HealthMate</string>
+    <string name="nav_home">මුල් පිටුව</string>
+    <string name="nav_first_aid">ප්‍රථමාධාර</string>
+    <string name="nav_language">භාෂාව</string>
+    <string name="title_home">AI සෞඛ්‍ය සහායක</string>
+    <string name="title_first_aid">ප්‍රථමාධාර මාර්ගෝපදේශය</string>
+    <string name="hint_symptoms">රෝග ලක්ෂණ මෙහි ලියන්න...</string>
+    <string name="button_camera">ඖෂධ හඳුනාගැනීමට කැමරාව</string>
+    <string name="initial_response_text">රෝග ලක්ෂණ ඇතුලත් කරන්න, නැතහොත් ඖෂධ හඳුනාගැනීමට කැමරාව භාවිතා කරන්න.</string>
+    <string name="coming_soon">ඉක්මනින් පැමිණේ!</string>
+    <string name="dialog_language_title">භාෂාව තෝරන්න</string>
+    <string name="lang_english">English (ඉංග්‍රීසි)</string>
+    <string name="lang_sinhala">Sinhala</string>
+    <string name="toast_lang_changed">භාෂාව සිංහලට මාරු විය</string>
+    <string name="toast_permission_required">කැමරාව සඳහා අවසර අවශ්‍යයි.</string>
+    <string name="toast_error_request">ඉල්ලීම සෑදීමේ දෝෂයකි.</string>
+    <string name="toast_error_image">පින්තූරය සැකසීමට නොහැක.</string>
+    <string name="toast_error_network">ජාල දෝෂයකි. කරුණාකර ඔබගේ සම්බන්ධතාවය පරීක්ෂා කරන්න.</string>
+    <string name="toast_error_api">API දෝෂයකි: %1$d</string>
+    <string name="toast_error_response">පිළිතුර සැකසීමේ දෝෂයකි.</string>
+    <string name="toast_error_blocked">ඉල්ලීම අවහිර කරන ලදි. කරුණාකර වෙනස් දෙයක් උත්සාහ කරන්න.</string>
+</resources>
